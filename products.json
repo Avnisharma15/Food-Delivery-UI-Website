@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Cheesy Veggie Burger",
+        "price": "$150",
+        "image": "images/veggie-cheese-burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Paneer Tikka Pizza",
+        "price": "$180",
+        "image": "images/paneer-tikka-pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "Crispy Veg Sandwich",
+        "price": "$120",
+        "image": "images/Crispy-Veg-Sandwich.png"
+    },
+    {
+        "id": 4,
+        "name": "Masala Dosa",
+        "price": "$100",
+        "image": "images/masala-dosa.png"
+    },
+    {
+        "id": 5,
+        "name": "Chole Bhature",
+        "price": "$130",
+        "image": "images/chole-bhature.png"
+    },
+    {
+        "id": 6,
+        "name": "Veg Fried Rice",
+        "price": "$110",
+        "image": "images/veg-fried-rice.png"
+    },
+    {
+        "id": 7,
+        "name": "Hakka Noodles",
+        "price": "$115",
+        "image": "images/hakka-noodles.png"
+    },
+    {
+        "id": 8,
+        "name": "Veg Cheese Momos",
+        "price": "$90",
+        "image":  "images/momos.png"       
+    }
+]
