@@ -33,7 +33,7 @@ food-delivery-ui/
 │── images/
 
 ## Live Demo
-(Add the GitHub Pages link here)
+(https://github.com/Avnisharma15/Food-Delivery-UI-Website)
 
 ## Author
 Created by Avni Sharma ✨
